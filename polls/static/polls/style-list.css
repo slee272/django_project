@@ -1,0 +1,28 @@
+body {
+    background: cadetblue url("images/background.png");
+    background-size: 100%;
+}
+
+li {
+    color: cadetblue;
+    margin-bottom: 10px;
+}
+li a {
+    color: cadetblue;
+}
+
+.question {
+    margin: 10px auto;
+    padding: 20px;
+    background-color: aliceblue;
+    width: 400px;
+    height: 500px;
+    border: 5px double cadetblue;
+    border-radius: 10px;
+}
+
+.title {
+    margin-left: 10px;
+    color: cadetblue;
+    line-height: 0.5;
+}

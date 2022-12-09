@@ -1,0 +1,29 @@
+body {
+    background: cadetblue url("images/detail.png");
+    background-size: 100%;
+}
+
+.choice {
+    margin: 10px auto;
+    padding: 20px;
+    background-color: lavender;
+    width: 400px;
+    height: 500px;
+    border: 5px double cornflowerblue;
+    border-radius: 10px;
+}
+
+.title {
+    margin-left: 10px;
+    color: cornflowerblue;
+    line-height: 0.5;
+}
+
+input {
+    margin: 10px;
+}
+
+a {
+    color: cadetblue;
+    margin: 10px;
+}
